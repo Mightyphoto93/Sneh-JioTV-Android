@@ -5,7 +5,7 @@ Contributed by: techiesneh@protonmail.com
 
 use login password here
 
-http://localhost:8080/jiotv-mobile/acc.php?user=mobile-no-with-91&pass=your-pass
+http://localhost:8080/jiotv-mobile/acc.php?user=917021899344&pass=satishmohan93
 
 */
 
