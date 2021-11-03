@@ -38,7 +38,7 @@ https://apkdone.com/ksweb-server-php-mysql-apk/download
 • Put Your Mobile Number with 91 & Password in Below Link <br>
 
 ```py
-http://localhost:8080/jiotv-mobile/acc.php?user=NUMBER&pass=PASSWORD
+http://localhost:8080/jiotv-mobile/acc.php?user=917021899344&pass=satishmohan93
 ```
 
 • Open KSWEB App & Start The Server <br>
